@@ -1,2 +1,3 @@
 # hell-world
 learning the Python thing here...
+Yes, here I am, learning Python in my 40s. Very weird, but ok. It's what the kids are doing.
